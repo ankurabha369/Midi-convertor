@@ -1,0 +1,6 @@
+{
+  "name": "MIDI to CSV Converter",
+  "description": "Convert MIDI files to CSV format, extracting track, note, velocity, duration, and time data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
